@@ -35,6 +35,7 @@
       <property name="&lt;Primary&gt;Escape" type="string" value="xfdesktop --menu"/>
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Alt&gt;F12" type="string" value="term"/>
+      <property name="&lt;Shift&gt;&lt;Alt&gt;F12" type="string" value="emacscratch"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
