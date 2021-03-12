@@ -33,6 +33,9 @@
         <value type="int" value="12"/>
         <value type="int" value="13"/>
         <value type="int" value="14"/>
+        <value type="int" value="19"/>
+        <value type="int" value="17"/>
+        <value type="int" value="18"/>
       </property>
       <property name="mode" type="uint" value="1"/>
       <property name="size" type="uint" value="31"/>
@@ -86,5 +89,11 @@
       <property name="base-directory" type="string" value="/home/chris"/>
     </property>
     <property name="plugin-16" type="string" value="windowmenu"/>
+    <property name="plugin-17" type="string" value="systemload"/>
+    <property name="plugin-18" type="string" value="netload"/>
+    <property name="plugin-19" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
   </property>
 </channel>
