@@ -4,11 +4,11 @@ Show_Bars=true
 Colorize_Values=false
 Color_In=rgb(255,79,0)
 Color_Out=rgb(255,229,0)
-Text=..
-Network_Device=
-Max_In=4096
-Max_Out=4096
-Auto_Max=true
+Text=
+Network_Device=eth0
+Max_In=10240000
+Max_Out=10240000
+Auto_Max=false
 Update_Interval=250
 Values_As_Bits=false
 
