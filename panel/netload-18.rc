@@ -1,10 +1,10 @@
-Use_Label=true
+Use_Label=false
 Show_Values=false
 Show_Bars=true
 Colorize_Values=false
 Color_In=rgb(255,79,0)
 Color_Out=rgb(255,229,0)
-Text=
+Text=Net
 Network_Device=eth0
 Max_In=10240000
 Max_Out=10240000
