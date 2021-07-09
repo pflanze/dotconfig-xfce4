@@ -85,6 +85,7 @@
     </property>
     <property name="plugin-16" type="string" value="windowmenu">
       <property name="style" type="uint" value="0"/>
+      <property name="all-workspaces" type="bool" value="false"/>
     </property>
     <property name="plugin-17" type="string" value="systemload"/>
     <property name="plugin-18" type="string" value="netload"/>
