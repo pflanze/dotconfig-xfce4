@@ -2,7 +2,7 @@
 click_command=claws-mail --receive
 new_messages_command=
 count_changed_command=bash -c 'if test -s /var/mail/yourusername; then notify-send "new mail"; fi'
-normal_icon=xfce-nomail
+normal_icon=ristretto
 new_mail_icon=xfce-newmail
 log_lines=200
 show_log_status=true
