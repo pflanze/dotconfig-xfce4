@@ -17,6 +17,7 @@
         <value type="int" value="4"/>
         <value type="int" value="5"/>
         <value type="int" value="6"/>
+        <value type="int" value="11"/>
         <value type="int" value="2"/>
         <value type="int" value="16"/>
       </property>
@@ -98,5 +99,6 @@
         <value type="string" value="16159441121.desktop"/>
       </property>
     </property>
+    <property name="plugin-11" type="string" value="mailwatch"/>
   </property>
 </channel>

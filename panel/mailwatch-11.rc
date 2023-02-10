@@ -1,0 +1,21 @@
+[mailwatch-plugin]
+click_command=claws-mail --receive
+new_messages_command=
+count_changed_command=bash -c 'if test -s /var/mail/yourusername; then notify-send "new mail"; fi'
+normal_icon=xfce-nomail
+new_mail_icon=xfce-newmail
+log_lines=200
+show_log_status=true
+auto_open_online_doc=false
+
+[mailwatch]
+nmailboxes=1
+mailbox0=mbox
+mailbox_name0=local
+
+[mailbox0]
+filename=/var/mail/chris
+ctime=1675993181
+size=3305
+interval=60
+
