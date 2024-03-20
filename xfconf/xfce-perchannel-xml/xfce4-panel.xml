@@ -84,7 +84,9 @@
       <property name="style" type="uint" value="1"/>
     </property>
     <property name="plugin-14" type="string" value="directorymenu">
-      <property name="base-directory" type="string" value="/home/chris"/>
+      <property name="base-directory" type="string" value="/home/chris">
+      <property name="digital-date-format" type="string" value="%Y-%m-%d"/>
+      <property name="timezone" type="string" value="Europe/Zurich"/>
     </property>
     <property name="plugin-16" type="string" value="windowmenu">
       <property name="style" type="uint" value="0"/>
