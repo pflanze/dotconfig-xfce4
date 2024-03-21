@@ -12,6 +12,7 @@
       <property name="size" type="uint" value="30"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
+        <value type="int" value="22"/>
         <value type="int" value="3"/>
         <value type="int" value="15"/>
         <value type="int" value="4"/>
@@ -83,6 +84,8 @@
       <property name="items" type="array">
         <value type="string" value="16131666474.desktop"/>
       </property>
+      <property name="arrow-position" type="uint" value="0"/>
+      <property name="move-first" type="bool" value="false"/>
     </property>
     <property name="plugin-13" type="string" value="separator">
       <property name="style" type="uint" value="1"/>
@@ -94,6 +97,7 @@
     </property>
     <property name="plugin-16" type="string" value="windowmenu">
       <property name="style" type="uint" value="0"/>
+        <value type="string" value="17110214704.desktop"/>
       <property name="all-workspaces" type="bool" value="false"/>
     </property>
     <property name="plugin-17" type="string" value="systemload">
@@ -122,7 +126,7 @@
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-20" type="string" value="launcher">
+    <property name="plugin-7" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="16159441121.desktop"/>
       </property>
