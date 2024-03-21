@@ -43,6 +43,10 @@
       <property name="length-adjust" type="bool" value="true"/>
       <property name="length" type="uint" value="96"/>
     </property>
+      <property name="mode" type="uint" value="2"/>
+      <property name="length-adjust" type="bool" value="false"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="enable-struts" type="bool" value="true"/>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-1" type="string" value="applicationsmenu"/>
