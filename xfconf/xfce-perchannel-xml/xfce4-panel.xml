@@ -35,9 +35,8 @@
         <value type="int" value="12"/>
         <value type="int" value="13"/>
         <value type="int" value="14"/>
-        <value type="int" value="19"/>
-        <value type="int" value="17"/>
-        <value type="int" value="18"/>
+        <value type="int" value="16"/>
+        <value type="int" value="11"/>
       </property>
       <property name="mode" type="uint" value="1"/>
       <property name="size" type="uint" value="31"/>
@@ -121,16 +120,14 @@
         <property name="enabled" type="bool" value="false"/>
       </property>
     </property>
-    <property name="plugin-18" type="string" value="netload"/>
-    <property name="plugin-19" type="string" value="separator">
+    <property name="plugin-11" type="string" value="systemload">
+      <property name="cpu" type="empty">
+        <property name="enabled" type="bool" value="true"/>
+      </property>
+    </property>
+    <property name="plugin-16" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-7" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16159441121.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-11" type="string" value="mailwatch"/>
   </property>
 </channel>
