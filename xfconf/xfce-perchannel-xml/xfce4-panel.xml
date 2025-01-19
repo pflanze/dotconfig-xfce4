@@ -129,5 +129,7 @@
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
+    <property name="plugin-11" type="string" value="mailwatch"/>
+  </property>
   </property>
 </channel>
